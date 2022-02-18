@@ -30,7 +30,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR yellow][B]:::o0[COLOR orange]EXPRESSO DO AMANHÃ: 3ª TEMPORADA[COLOR yellow]0o:::[/B][/COLOR]</name>
+<name>[COLOR yellow][B]:::o0[COLOR orange]EXPRESSO DO AMANHÃ - SEGUNDA TEMPORADA [COLOR yellow]0o:::[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/AnV2DMsAwG3WGLD7LvtptBbSSrG.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://www.themoviedb.org/t/p/w58_and_h87_face/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR yellow][B]:::o0[COLOR orange]EXPRESSO DO AMANHÃ: TERCEIRA TEMPORADA[COLOR yellow]0o:::[/B][/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mt7mmif11QXf8hsfgDAlOGJwJcV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/familiabmsdefrancaa/EXPRESSO-DO-AMANHA-3-TEMPORADA/main/EXPRESSO%20DO%20AMANHA%203%20TEMPORADA</externallink>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mt7mmif11QXf8hsfgDAlOGJwJcV.jpg</fanart>
